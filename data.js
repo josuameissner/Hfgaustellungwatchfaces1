@@ -10,13 +10,15 @@ const PROJECTS = [
     "title": "Bubbels",
     "group": "Rund um die Uhr",
     "students": [
+      "Josua Meißner",
+      "Jeremy Blachetta",
       "Franziska Bock"
     ]
   },
   {
     "folder": "cascade",
     "title": "Cascade",
-    "group": "Watchfaces",
+    "group": "Die Clockbusters",
     "students": [
       "Shania Mostafavi",
       "Lilly Drabek",
@@ -26,7 +28,7 @@ const PROJECTS = [
   {
     "folder": "cell-devision-code",
     "title": "Cell Devision",
-    "group": "Watchfaces",
+    "group": "Horizon",
     "students": [
       "Jessica Lenz",
       "Philipp Holbeck"
@@ -35,7 +37,7 @@ const PROJECTS = [
   {
     "folder": "elastic-orbit-code",
     "title": "Elastic Orbit",
-    "group": "Watchfaces",
+    "group": "Horizon",
     "students": [
       "Jessica Lenz",
       "Philipp Holbeck"
@@ -55,7 +57,10 @@ const PROJECTS = [
     "title": "Heartbeat",
     "group": "Rund um die Uhr",
     "students": [
-      "Josua Meißner"
+      "Josua Meißner",
+      "Jeremy Blachetta",
+      "Franziska Bock"
+
     ]
   },
   {
@@ -63,13 +68,15 @@ const PROJECTS = [
     "title": "Impact",
     "group": "Rund um die Uhr",
     "students": [
+      "Josua Meißner",
       "Jeremy Blachetta",
+      "Franziska Bock"
     ]
   },
   {
     "folder": "lines-of-glass-code",
     "title": "Lines Of Glass",
-    "group": "Watchfaces",
+    "group": "Horizon",
     "students": [
       "Jessica Lenz",
       "Philipp Holbeck"
@@ -78,7 +85,7 @@ const PROJECTS = [
   {
     "folder": "nova",
     "title": "Nova",
-    "group": "Watchfaces",
+    "group": "Die Clockbusters",
     "students": [
       "Shania Mostafavi",
       "Lilly Drabek",
@@ -88,7 +95,7 @@ const PROJECTS = [
   {
     "folder": "orbit",
     "title": "Orbit",
-    "group": "Watchfaces",
+    "group": "Die Clockbusters",
     "students": [
       "Shania Mostafavi",
       "Lilly Drabek",
